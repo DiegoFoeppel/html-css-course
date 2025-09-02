@@ -59,7 +59,7 @@ body {
   text-decoration-line: none;
 }
 
-.product-list {
+.details-list {
   list-style: square;
   margin-left: 20px;
 }
@@ -74,7 +74,7 @@ li {
   border: none;
   width: 100%;
   border-top: 4px solid black;
-  padding: 20px;
+  padding: 15px;
 }
 
 .button:hover {
